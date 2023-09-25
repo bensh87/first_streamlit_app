@@ -1,5 +1,5 @@
 import streamlit
 
-streamlit.title("YP Stores Welcomes you")
+streamlit.title('YP Stores Welcomes you')
 
-streamlit.header("Contents")
+streamlit.header('Contents')
